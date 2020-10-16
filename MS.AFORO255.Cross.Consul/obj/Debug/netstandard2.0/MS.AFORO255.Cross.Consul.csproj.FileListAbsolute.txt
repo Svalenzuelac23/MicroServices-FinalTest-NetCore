@@ -1,0 +1,52 @@
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\SOURCE\NET\OWN\Aforo255\src\trainer\microservicesnetcore22.2\v3\Sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion03\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion04\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\bin\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb

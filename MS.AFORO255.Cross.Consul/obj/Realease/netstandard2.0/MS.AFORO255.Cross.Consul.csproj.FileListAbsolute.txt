@@ -1,0 +1,9 @@
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Realease\netstandard2.0\MS.AFORO255.Cross.Consul.pdb

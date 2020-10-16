@@ -1,0 +1,18 @@
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Release\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Release\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\Release\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\AFORO255\CLASES\17.- MS - JUN 20\sesion05\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\release\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\release\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\bin\release\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\release\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\release\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\release\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\release\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\release\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Desarollos\Microservicios\MS.AFORO255\MS.AFORO255.Cross.Consul\obj\release\netstandard2.0\MS.AFORO255.Cross.Consul.pdb

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj": {}
+  },
+  "projects": {
+    "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj",
+        "projectName": "AFORO255.MS.TEST.Gateway",
+        "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj",
+        "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
+        "outputPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
+                "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Ocelot": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
+        "projectName": "MS.AFORO255.Cross.Jwt",
+        "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
+        "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
+        "outputPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
