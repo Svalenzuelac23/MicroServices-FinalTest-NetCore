@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMt2HD/J1w/Rdv8EA4dubB32opTnRoFx1A8fvEPnXbP9VbvOb+fR5wSSCKsgw0jrj4hbY9m9To3C4q8j478GlQ==",
+  "dgSpecHash": "DeEiSapVzktzg4C8slY8209wqtezhKivcnmGXoHM4Iz6qXixwDz9bF1gHRvgBpM1BF1pC/NsGtBXRwA4ZBwMIA==",
   "success": true,
-  "projectFilePath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj",
+  "projectFilePath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stanley\\.nuget\\packages\\consul\\0.7.2.6\\consul.0.7.2.6.nupkg.sha512",
     "C:\\Users\\Stanley\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

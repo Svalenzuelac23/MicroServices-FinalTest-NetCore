@@ -114,8 +114,8 @@ D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\D
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Consul.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.RabbitMQ.dll
-D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.RabbitMQ.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.RabbitMQ.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Transaction.csprojAssemblyReference.cache
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Transaction.AssemblyInfoInputs.cache
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Transaction.AssemblyInfo.cs

@@ -35,8 +35,8 @@
               "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj": {
                 "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj"
               },
-              "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
-                "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj"
+              "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
+                "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
+    "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
+        "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
         "projectName": "MS.AFORO255.Cross.Jwt",
-        "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
+        "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\obj\\",
+        "outputPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -139,8 +139,8 @@ D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debu
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Consul.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Jwt.dll
-D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Jwt.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\MS.AFORO255.Cross.Jwt.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Security.csprojAssemblyReference.cache
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Security.AssemblyInfoInputs.cache
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Security.AssemblyInfo.cs

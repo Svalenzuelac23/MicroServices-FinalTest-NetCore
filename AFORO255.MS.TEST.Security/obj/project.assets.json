@@ -10383,8 +10383,8 @@
     },
     "MS.AFORO255.Cross.Jwt/1.0.0": {
       "type": "project",
-      "path": "../../MS.AFORO255/MS.AFORO255.Cross.Jwt/MS.AFORO255.Cross.Jwt.csproj",
-      "msbuildProject": "../../MS.AFORO255/MS.AFORO255.Cross.Jwt/MS.AFORO255.Cross.Jwt.csproj"
+      "path": "../MS.AFORO255.Cross.Jwt/MS.AFORO255.Cross.Jwt.csproj",
+      "msbuildProject": "../MS.AFORO255.Cross.Jwt/MS.AFORO255.Cross.Jwt.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10433,8 +10433,8 @@
             "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj": {
               "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj"
             },
-            "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
-              "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj"
+            "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
+              "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj"
             }
           }
         }

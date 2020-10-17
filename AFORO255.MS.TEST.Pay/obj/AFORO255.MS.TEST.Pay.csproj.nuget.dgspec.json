@@ -35,8 +35,8 @@
               "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj": {
                 "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj"
               },
-              "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj": {
-                "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj"
+              "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj": {
+                "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj": {
+    "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj",
+        "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj",
         "projectName": "MS.AFORO255.Cross.RabbitMQ",
-        "projectPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj",
+        "projectPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarollos\\Microservicios\\MS.AFORO255\\MS.AFORO255.Cross.RabbitMQ\\obj\\",
+        "outputPath": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
