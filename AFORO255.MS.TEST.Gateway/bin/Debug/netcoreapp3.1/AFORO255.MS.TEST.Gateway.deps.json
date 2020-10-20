@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "AFORO255.MS.TEST.Gateway/1.0.0": {
         "dependencies": {
-          "MS.AFORO255.Cross.Jwt": "1.0.0",
+          "MS.AFORO255.Cross.Jwt": "20.3.0",
           "Ocelot": "16.0.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -552,7 +552,7 @@
         }
       },
       "System.Security.Cryptography.Cng/4.5.0": {},
-      "MS.AFORO255.Cross.Jwt/1.0.0": {
+      "MS.AFORO255.Cross.Jwt/20.3.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.4"
         },
@@ -2397,7 +2397,7 @@
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
     },
-    "MS.AFORO255.Cross.Jwt/1.0.0": {
+    "MS.AFORO255.Cross.Jwt/20.3.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

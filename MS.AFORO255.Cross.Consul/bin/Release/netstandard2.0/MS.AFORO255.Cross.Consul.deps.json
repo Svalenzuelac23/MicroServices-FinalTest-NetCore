@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "MS.AFORO255.Cross.Consul/1.0.0": {
+      "MS.AFORO255.Cross.Consul/20.3": {
         "dependencies": {
           "Consul": "0.7.2.6",
           "Microsoft.AspNetCore": "2.2.0",
@@ -1345,7 +1345,7 @@
     }
   },
   "libraries": {
-    "MS.AFORO255.Cross.Consul/1.0.0": {
+    "MS.AFORO255.Cross.Consul/20.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

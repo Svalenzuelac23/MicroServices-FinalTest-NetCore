@@ -250,7 +250,7 @@
           }
         }
       },
-      "MS.AFORO255.Cross.Jwt/1.0.0": {
+      "MS.AFORO255.Cross.Jwt/20.3.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -261,10 +261,7 @@
         },
         "runtime": {
           "bin/placeholder/MS.AFORO255.Cross.Jwt.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -810,7 +807,7 @@
         "version.txt"
       ]
     },
-    "MS.AFORO255.Cross.Jwt/1.0.0": {
+    "MS.AFORO255.Cross.Jwt/20.3.0": {
       "type": "project",
       "path": "../MS.AFORO255.Cross.Jwt/MS.AFORO255.Cross.Jwt.csproj",
       "msbuildProject": "../MS.AFORO255.Cross.Jwt/MS.AFORO255.Cross.Jwt.csproj"
@@ -818,7 +815,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MS.AFORO255.Cross.Jwt >= 1.0.0",
+      "MS.AFORO255.Cross.Jwt >= 20.3.0",
       "Ocelot >= 16.0.1"
     ]
   },
@@ -828,7 +825,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "20.3.0",
     "restore": {
       "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj",
       "projectName": "AFORO255.MS.TEST.Gateway",

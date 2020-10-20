@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Transaction\\AFORO255.MS.TEST.Transaction.csproj": {
-      "version": "1.0.0",
+      "version": "20.3.0",
       "restore": {
         "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Transaction\\AFORO255.MS.TEST.Transaction.csproj",
         "projectName": "AFORO255.MS.TEST.Transaction",
@@ -94,7 +94,7 @@
       }
     },
     "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj": {
-      "version": "1.0.0",
+      "version": "20.3.0",
       "restore": {
         "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Consul\\MS.AFORO255.Cross.Consul.csproj",
         "projectName": "MS.AFORO255.Cross.Consul",
@@ -186,7 +186,7 @@
       }
     },
     "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj": {
-      "version": "1.0.0",
+      "version": "20.3.0",
       "restore": {
         "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.RabbitMQ\\MS.AFORO255.Cross.RabbitMQ.csproj",
         "projectName": "MS.AFORO255.Cross.RabbitMQ",

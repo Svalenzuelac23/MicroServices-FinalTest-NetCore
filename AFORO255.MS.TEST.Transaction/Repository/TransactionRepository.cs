@@ -11,7 +11,7 @@ namespace AFORO255.MS.TEST.Transaction.Repository
         {
             var client = new MongoClient(configuration["cnmongo"]);
             if (client != null)
-                _database = client.GetDatabase(configuration["mongo:database"]);
+                _database = client.GetDatabase(configuration["mongodatabase"]);
         }
         public IMongoCollection<Model.Transaction> History
         {

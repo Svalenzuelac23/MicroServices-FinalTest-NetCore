@@ -49,3 +49,4 @@ D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Debug\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache

@@ -127,3 +127,4 @@ D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\D
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Transaction.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Transaction.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Transaction.genruntimeconfig.cache
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Transaction\bin\Debug\netcoreapp3.1\appsettings.docker.json

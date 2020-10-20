@@ -152,3 +152,10 @@ D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debu
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Security.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Security.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Security.genruntimeconfig.cache
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\publish\web.config
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\appsettings.docker.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\publish\AFORO255.MS.TEST.Security.deps.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\publish\AFORO255.MS.TEST.Security.runtimeconfig.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\publish\appsettings.docker.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Security\bin\Debug\netcoreapp3.1\publish\appsettings.json

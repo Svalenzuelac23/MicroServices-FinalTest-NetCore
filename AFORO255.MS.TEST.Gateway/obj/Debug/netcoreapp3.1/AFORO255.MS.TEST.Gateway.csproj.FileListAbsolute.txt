@@ -38,3 +38,11 @@ D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\obj\Debug
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Gateway.dll
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Gateway.pdb
 D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\obj\Debug\netcoreapp3.1\AFORO255.MS.TEST.Gateway.genruntimeconfig.cache
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\ocelot.docker.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\web.config
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\AFORO255.MS.TEST.Gateway.deps.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\AFORO255.MS.TEST.Gateway.runtimeconfig.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\appsettings.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\ocelot.docker.json
+D:\Desarollos\Microservicios\AFORO255.MS.TEST\AFORO255.MS.TEST.Gateway\bin\Debug\netcoreapp3.1\publish\ocelot.json

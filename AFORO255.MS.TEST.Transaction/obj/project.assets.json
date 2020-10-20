@@ -3028,7 +3028,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "MS.AFORO255.Cross.Consul/1.0.0": {
+      "MS.AFORO255.Cross.Consul/20.3.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -3048,7 +3048,7 @@
           "bin/placeholder/MS.AFORO255.Cross.Consul.dll": {}
         }
       },
-      "MS.AFORO255.Cross.RabbitMQ/1.0.0": {
+      "MS.AFORO255.Cross.RabbitMQ/20.3.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -8908,12 +8908,12 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "MS.AFORO255.Cross.Consul/1.0.0": {
+    "MS.AFORO255.Cross.Consul/20.3.0": {
       "type": "project",
       "path": "../MS.AFORO255.Cross.Consul/MS.AFORO255.Cross.Consul.csproj",
       "msbuildProject": "../MS.AFORO255.Cross.Consul/MS.AFORO255.Cross.Consul.csproj"
     },
-    "MS.AFORO255.Cross.RabbitMQ/1.0.0": {
+    "MS.AFORO255.Cross.RabbitMQ/20.3.0": {
       "type": "project",
       "path": "../MS.AFORO255.Cross.RabbitMQ/MS.AFORO255.Cross.RabbitMQ.csproj",
       "msbuildProject": "../MS.AFORO255.Cross.RabbitMQ/MS.AFORO255.Cross.RabbitMQ.csproj"
@@ -8922,8 +8922,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.0.1",
-      "MS.AFORO255.Cross.Consul >= 1.0.0",
-      "MS.AFORO255.Cross.RabbitMQ >= 1.0.0",
+      "MS.AFORO255.Cross.Consul >= 20.3.0",
+      "MS.AFORO255.Cross.RabbitMQ >= 20.3.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.4",
       "MongoDB.Driver >= 2.11.2",
@@ -8936,7 +8936,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "20.3.0",
     "restore": {
       "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Transaction\\AFORO255.MS.TEST.Transaction.csproj",
       "projectName": "AFORO255.MS.TEST.Transaction",

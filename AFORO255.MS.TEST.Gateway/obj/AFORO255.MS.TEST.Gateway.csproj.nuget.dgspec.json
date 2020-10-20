@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj": {
-      "version": "1.0.0",
+      "version": "20.3.0",
       "restore": {
         "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\AFORO255.MS.TEST.Gateway\\AFORO255.MS.TEST.Gateway.csproj",
         "projectName": "AFORO255.MS.TEST.Gateway",
@@ -75,7 +75,7 @@
       }
     },
     "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj": {
-      "version": "1.0.0",
+      "version": "20.3.0",
       "restore": {
         "projectUniqueName": "D:\\Desarollos\\Microservicios\\AFORO255.MS.TEST\\MS.AFORO255.Cross.Jwt\\MS.AFORO255.Cross.Jwt.csproj",
         "projectName": "MS.AFORO255.Cross.Jwt",
@@ -129,9 +129,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
